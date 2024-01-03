@@ -5,8 +5,6 @@
 **Project Name:** Crater_Detection  
 **Author:** Pirate-Emperor
 
-![Crater_Detection Logo](crater_detection_logo.png)
-
 ## Description
 
 Crater_Detection is a specialized repository developed by Pirate-Emperor that focuses on identifying and outlining impact craters on lunar surfaces. This project combines the outputs of various lunar models, including Lunar_ISR, Crater_Detection itself, Height_Map, DTM_3D, Slope, Shadow, and Hazard_Map, to create detailed crater maps. Accurate crater detection is crucial for lunar research, exploration, and mission planning.
