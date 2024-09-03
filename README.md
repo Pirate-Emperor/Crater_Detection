@@ -21,6 +21,13 @@ Crater_Detection integrates the following models to derive crater maps:
 6. **Shadow:** Generates shadow maps based on lighting conditions and lunar features.
 7. **Hazard_Map:** Combines the outputs of various models to create a comprehensive hazard map.
 
+## Screenshots
+### Crater
+![screenshot7](images/super_crater_hazard.png)
+![screenshot8](images/super_crater_mask.png)
+![screenshot9](images/crater_mask.png)
+![screenshot10](images/crater_hazard.png)
+
 ## Features
 
 1. **Accurate Crater Detection:** Crater_Detection uses advanced algorithms to accurately identify and outline impact craters on lunar images.
